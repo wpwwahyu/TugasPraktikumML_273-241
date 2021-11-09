@@ -9,7 +9,7 @@ Dalam pembuatan project ini menggunakan dataset yang didapatkan dari situs [kagg
 2. Pneumonia : 4273 gambar
 
 **Jurnal Referensi**
-Jurnal referensi pada projek ini berjudul [An Efficient Deep Learning Approach to Pneumonia Classification in Healthcare](https://doi.org/10.1155/2019/4180949). Okeke Stephen, Mangal Sain, Uchenna Joseph Maduh, and Do-Un Jeong. [https://www.hindawi.com/journals/jhe/2019/4180949/](https://www.hindawi.com/journals/jhe/2019/4180949/)
+Jurnal referensi pada projek ini berjudul [An Efficient Deep Learning Approach to Pneumonia Classification in Healthcare](https://doi.org/10.1155/2019/4180949). Okeke Stephen, Mangal Sain, Uchenna Joseph Maduh, and Do-Un Jeong.
 
 ## Author
 Kontributor dalam pengerjaan proyek ini adalah:
