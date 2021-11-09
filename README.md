@@ -4,15 +4,12 @@
 ![TensorFlow](https://camo.githubusercontent.com/b9a15384e1200fd9bc61981b512a8888bdb44b842c3062f5ede5f89319f5706b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323632352f312a5972764d4b72574d686933486f6d6f69544c507366772e706e67)
 
 ## Deskripsi Dataset
-Dalam pembuatan project ini menggunakan dataset yang didapatkan dari situs [kaggle.com](https://www.kaggle.com/), untuk dataset yang digunakan menggunakan datset dengan judul [Flowers Recognition](https://www.kaggle.com/alxmamaev/flowers-recognition) dimana dataset ini berisi 4242 gambar bunga yang dikumpulkan berdasarkan data flicr, google images, yandex images. Dataset ini didapatkan dari sumber refrensi jurnal yang digunakan. Gambar-gambar tersebut dibagi menjadi lima kelas:
-1. chamomile
-2. tulip
-3. rose
-4. sunflower
-5. dandelion
+Dalam pembuatan project ini menggunakan dataset yang didapatkan dari situs [kaggle.com](https://www.kaggle.com/), untuk dataset yang digunakan menggunakan datset dengan judul [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) dimana dataset ini berisi 4242 gambar bunga yang dikumpulkan berdasarkan data flicr, google images, yandex images. Dataset ini didapatkan dari sumber refrensi jurnal yang digunakan. Gambar-gambar tersebut dibagi menjadi tiga kelas:
+1. Normal
+2. Pneumonia
 
 **Jurnal Referensi**
-Jurnal referensi pada projek ini berjudul [Classification of flower species by using features extracted from the intersection of feature selection methods in convolutional neural network models](https://www.sciencedirect.com/science/article/abs/pii/S0263224120302414). Mesut Toğaçar, Burhan Ergen, Zafer Cömert. [https://doi.org/10.1016/j.measurement.2020.107703](https://doi.org/10.1016/j.measurement.2020.107703)
+Jurnal referensi pada projek ini berjudul [An Efficient Deep Learning Approach to Pneumonia Classification in Healthcare](https://doi.org/10.1155/2019/4180949). Okeke Stephen, Mangal Sain, Uchenna Joseph Maduh, and Do-Un Jeong. [https://www.hindawi.com/journals/jhe/2019/4180949/](https://www.hindawi.com/journals/jhe/2019/4180949/)
 
 ## Author
 Kontributor dalam pengerjaan proyek ini adalah:
