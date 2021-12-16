@@ -1,7 +1,8 @@
 # Project Machine Learning
-# Kasifikasi Citra Tumbuhan Menggunakan Convolutional Neural Network
+# Implementation of Convolution Neural Network to Pneumonia Classification
 
 ![TensorFlow](https://camo.githubusercontent.com/b9a15384e1200fd9bc61981b512a8888bdb44b842c3062f5ede5f89319f5706b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323632352f312a5972764d4b72574d686933486f6d6f69544c507366772e706e67)
+![Keras](https://camo.githubusercontent.com/b9a15384e1200fd9bc61981b512a8888bdb44b842c3062f5ede5f89319f5706b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323632352f312a5972764d4b72574d686933486f6d6f69544c507366772e706e67)
 
 ## Deskripsi Dataset
 Dalam pembuatan project ini menggunakan dataset yang didapatkan dari situs [kaggle.com](https://www.kaggle.com/), untuk dataset yang digunakan menggunakan datset dengan judul [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) dimana dataset ini berisi 5856 gambar xray yang dikumpulkan. Dataset ini didapatkan dari sumber refrensi jurnal yang digunakan. Gambar-gambar tersebut dibagi menjadi tiga kelas dengan rincian:
