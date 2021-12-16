@@ -12,6 +12,11 @@ Dalam pembuatan project ini menggunakan dataset yang didapatkan dari situs [kagg
 **Jurnal Referensi**
 Jurnal referensi pada projek ini berjudul [An Efficient Deep Learning Approach to Pneumonia Classification in Healthcare](https://doi.org/10.1155/2019/4180949). Okeke Stephen, Mangal Sain, Uchenna Joseph Maduh, and Do-Un Jeong.
 
+## Metode deep Learning yang digunakan
+1. Pengembangan model dengan menggunakan ANN (Artficial Neural Network)
+2. Pengembangan model dengan menggunakan CNN (Convolution Neural Network)
+3. Pengembangan model dengan menggunakan Transfer Learing VGG16
+
 ## Author
 Kontributor dalam pengerjaan proyek ini adalah:
 1. Wahyu Priyo Wicaksono [wahyuwpw27@gmail.com](wahyuwpw27@gmail.com)
